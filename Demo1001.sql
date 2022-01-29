@@ -1,6 +1,6 @@
 -- Data Exploration
 -- Skills used: Aggregate functions, Joins, and Converting Data Types
---				Aliasing, CTEs, TEMP table
+--		Aliasing, CTEs, TEMP table
 -- create a new data column from existing data in 2 seperate datasets.
 -- query the new column for another new column to be visualized.
 
